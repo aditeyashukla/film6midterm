@@ -1,4 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+
+html{
+  background:#272c27 !important;
+}
+body{
+  background:#272c27 !important;
+}
+
+.MuiPaper-root{
+  background: #333d3d !important;
+}
 .App {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Bebas Neue';
+  font-size: 78px;
+  text-align: start;
+}
+
+.titlesub{
+  font-size: 48px;
+}
+
+.flowchart{
+  width:100%;
+}
+
+.content {
+  font-family: 'Montserrat';
+  font-size: 17px;
+  text-align: start;
+}
+
+.footer {
+  font-family: 'Montserrat';
+  font-size: 13px;
   text-align: center;
 }
 
